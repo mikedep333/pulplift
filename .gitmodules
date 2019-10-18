@@ -1,6 +1,6 @@
 [submodule "ansible-pulp"]
 	path = ansible-pulp
-	url = ../ansible-pulp
+	url = ../../pulp/ansible-pulp
 	branch = master
 [submodule "forklift"]
 	path = forklift
@@ -8,4 +8,4 @@
 	branch = master
 [submodule "pulp-ci"]
 	path = pulp-ci
-	url = ../pulp-ci
+	url = ../../pulp/pulp-ci
